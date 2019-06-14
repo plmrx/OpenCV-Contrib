@@ -51,7 +51,7 @@ the use of this software, even if advised of the possibility of such damage.
                         DESC
                         }
   s.ios.deployment_target = '9.0'
-  s.source           = { :http => 'https://github.com/plmrx/OpenCV-Contrib/releases/download/4.1.0-nonfree/opencv-4.1.0-ios-framework.zip' }
+  s.source           = { :http => 'https://github.com/plmrx/OpenCV-Contrib/releases/download/4.1.0/opencv-4.1.0-ios-framework.zip' }
   s.vendored_frameworks = 'opencv2.framework'
   s.header_mappings_dir = 'opencv2.framework/Versions/A/Headers'
   s.frameworks = 'AssetsLibrary', 'AVFoundation', 'CoreGraphics', 'CoreMedia', 'CoreVideo', 'Foundation', 'QuartzCore', 'UIKit'
