@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OpenCV-Contrib'
-  s.version          = '4.1.0'
+  s.version          = '4.1.0-nonfree'
   s.summary          = 'OpenCV (Computer Vision) for iOS + Contrib (w/ Non-Free)'
   s.homepage         = 'https://opencv.org/'
   s.description      = <<-DESC
